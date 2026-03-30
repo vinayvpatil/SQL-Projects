@@ -4,10 +4,11 @@
 Yelp is a web and mobile platform that functions as a crowd-sourced local business review site. Users can submit reviews, photos, and tips about businesses, while also browsing ratings and information shared by others.
 
 ---
-This project analyzes user engagement data to uncover the key factors driving restaurant success.
+This project analyzes user engagement data to uncover the key factors driving restaurant success.  
 
 Link to dataset (Yelp): - https://www.yelp.com/dataset/download  
 (Kaggle) - https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset
+
 ---
 
 ## 🗂️ Agenda  
